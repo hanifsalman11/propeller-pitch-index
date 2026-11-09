@@ -31,5 +31,38 @@
     "mph": 28.6,
     "slip": 14.0,
     "date": "2026-11-09"
+  },
+  {
+    "prop_name": "Yamaha F200 (200 HP Inline-4) 14.25\" × 18\" Pitch",
+    "slug": "yamaha-f200-200-hp-inline-4-1425-18-pitch-propeller-pitch-slip-calculator",
+    "title": "Yamaha F200 (200 HP Inline-4) 14.25\" × 18\" Pitch Propeller Pitch, Slip % & WOT RPM Calculator (2026)",
+    "description": "Calculate exact boat propeller pitch (14.25\" × 18\" 3-blade / 16\" 4-blade), GPS speed (48.1 MPH @ 5,800 RPM), 1.86:1 gear ratio, and 9.5% prop slip for Yamaha F200 (200 HP Inline-4) 14.25\" × 18\" Pitch.",
+    "pitch": 18,
+    "ratio": 1.86,
+    "mph": 48.1,
+    "slip": 9.5,
+    "date": "2026-11-09"
+  },
+  {
+    "prop_name": "Yamaha F250 / F300 V6 (4.2L) Saltwater Series II 15.25\" × 19\"",
+    "slug": "yamaha-f250-f300-v6-42l-saltwater-series-ii-1525-19-propeller-pitch-slip-calculator",
+    "title": "Yamaha F250 / F300 V6 (4.2L) Saltwater Series II 15.25\" × 19\" Propeller Pitch, Slip % & WOT RPM Calculator (2026)",
+    "description": "Calculate exact boat propeller pitch (15.25\" × 19\" 3-blade / 17\" 4-blade), GPS speed (54.5 MPH @ 5,800 RPM), 1.75:1 gear ratio, and 8.5% prop slip for Yamaha F250 / F300 V6 (4.2L) Saltwater Series II 15.25\" × 19\".",
+    "pitch": 19,
+    "ratio": 1.75,
+    "mph": 54.5,
+    "slip": 8.5,
+    "date": "2026-11-09"
+  },
+  {
+    "prop_name": "Yamaha F60 / F70 (60-70 HP) Aluminum & Skiff Pitch",
+    "slug": "yamaha-f60-f70-60-70-hp-aluminum-skiff-pitch-propeller-pitch-slip-calculator",
+    "title": "Yamaha F60 / F70 (60-70 HP) Aluminum & Skiff Pitch Propeller Pitch, Slip % & WOT RPM Calculator (2026)",
+    "description": "Calculate exact boat propeller pitch (13.25\" × 13\" 3-blade / 12\" 4-blade), GPS speed (27.9 MPH @ 6,000 RPM), 2.33:1 gear ratio, and 12.0% prop slip for Yamaha F60 / F70 (60-70 HP) Aluminum & Skiff Pitch.",
+    "pitch": 13,
+    "ratio": 2.33,
+    "mph": 27.9,
+    "slip": 12.0,
+    "date": "2026-11-09"
   }
 ]
