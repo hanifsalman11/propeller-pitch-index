@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PropPitchIndex Boat Propeller Pitch & Slip Sizing Database</title>
+    <link>https://hanifsalman11.github.io/propeller-pitch-index/</link>
+    <description>Interactive Outboard & Sterndrive Boat Propeller Pitch, Slip % & WOT RPM Calculators</description>
+    <atom:link href="https://hanifsalman11.github.io/propeller-pitch-index/rss.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
+    <item>
+      <title>Yamaha F90 (90 HP FourStroke) Pontoon & Bay Boat Pitch Propeller Pitch, Slip % & WOT RPM Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/propeller-pitch-index/yamaha-f90-90-hp-fourstroke-pontoon-bay-boat-pitch-propeller-pitch-slip-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/propeller-pitch-index/yamaha-f90-90-hp-fourstroke-pontoon-bay-boat-pitch-propeller-pitch-slip-calculator.html</guid>
+      <description>Calculate exact boat propeller pitch (13.75" × 13" 3-blade / 12" 4-blade), GPS speed (28.6 MPH @ 5,800 RPM), 2.15:1 gear ratio, and 14.0% prop slip for Yamaha F90 (90 HP FourStroke) Pontoon & Bay Boat Pitch.</description>
+    </item>
+    <item>
+      <title>Yamaha F115 (115 HP FourStroke) Talon 13.5" × 15" Pitch Propeller Pitch, Slip % & WOT RPM Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/propeller-pitch-index/yamaha-f115-115-hp-fourstroke-talon-135-15-pitch-propeller-pitch-slip-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/propeller-pitch-index/yamaha-f115-115-hp-fourstroke-talon-135-15-pitch-propeller-pitch-slip-calculator.html</guid>
+      <description>Calculate exact boat propeller pitch (13.5" × 15" 3-blade / 14" 4-blade), GPS speed (35.2 MPH @ 6,000 RPM), 2.15:1 gear ratio, and 11.0% prop slip for Yamaha F115 (115 HP FourStroke) Talon 13.5" × 15" Pitch.</description>
+    </item>
+    <item>
+      <title>Yamaha F150 (150 HP FourStroke) Reliance 14.25" × 17" Pitch Propeller Pitch, Slip % & WOT RPM Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/propeller-pitch-index/yamaha-f150-150-hp-fourstroke-reliance-1425-17-pitch-propeller-pitch-slip-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/propeller-pitch-index/yamaha-f150-150-hp-fourstroke-reliance-1425-17-pitch-propeller-pitch-slip-calculator.html</guid>
+      <description>Calculate exact boat propeller pitch (14.25" × 17" 3-blade / 15" 4-blade), GPS speed (42.0 MPH @ 5,800 RPM), 2.00:1 gear ratio, and 10.0% prop slip for Yamaha F150 (150 HP FourStroke) Reliance 14.25" × 17" Pitch.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PropPitchIndex — Boat Propeller Pitch, Slip %, WOT RPM & Gear Ratio Calculator (2026)</title>
+  <meta name="description" content="Calculate exact outboard and sterndrive boat propeller pitch, hydrodynamic prop slip %, WOT RPM change per inch of pitch, and 3-blade vs 4-blade sizing for Yamaha, Mercury, Suzuki, Honda, Tohatsu, and MerCruiser engines.">
+  <link rel="canonical" href="https://hanifsalman11.github.io/propeller-pitch-index/">
+  <link rel="alternate" type="application/rss+xml" title="PropPitchIndex RSS Feed" href="https://hanifsalman11.github.io/propeller-pitch-index/rss.xml">
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-slate-950 text-slate-100 min-h-screen flex flex-col">
+  <header class="border-b border-slate-800 bg-slate-900/80 sticky top-0 z-30 backdrop-blur">
+    <div class="max-w-5xl mx-auto px-4 py-3.5 flex items-center justify-between">
+      <div class="text-lg font-black text-white flex items-center gap-2">
+        <span class="bg-blue-500 text-slate-950 px-2 py-0.5 rounded font-black">PROP</span>PitchIndex
+      </div>
+      <a href="https://www.amazon.com/s?k=Stainless%2BSteel%2BBoat%2BPropeller%2BSolas%2BMercury%2BYamaha%2BFlo%2BTorq%2BHub%2BKit&tag=salmanrevie04-20" target="_blank" rel="nofollow sponsored" class="text-xs sm:text-sm bg-blue-500 hover:bg-blue-400 text-slate-950 font-extrabold px-3.5 py-2 rounded-lg transition">
+        Shop Boat Propellers, Hub Kits & Jack Plates on Amazon →
+      </a>
+    </div>
+  </header>
+
+  <main class="max-w-5xl mx-auto px-4 py-12 flex-1 w-full">
+    <div class="text-center max-w-2xl mx-auto mb-10">
+      <h1 class="text-3xl sm:text-5xl font-black text-white tracking-tight">Boat Propeller Pitch, Slip %, WOT RPM & Gear Ratio Database</h1>
+      <p class="text-slate-400 mt-3 text-base sm:text-lg">Select your outboard/sterndrive engine or boat hull below to calculate theoretical vs. GPS speed, propeller slip %, 3-blade to 4-blade pitch conversion, and WOT RPM tuning.</p>
+      <div class="mt-6">
+        <input id="filterInput" type="text" placeholder="Search engine or hull (e.g. Yamaha F150, Mercury 115 Pro XS, Suzuki DF140, MerCruiser Alpha One, Pontoon, 19 Pitch...)" class="w-full bg-slate-900 border border-slate-700 rounded-xl px-4 py-3.5 text-sm text-white focus:outline-none focus:border-blue-500">
+      </div>
+    </div>
+
+    <div id="propGrid" class="grid sm:grid-cols-2 lg:grid-cols-3 gap-5">
+        <a href="yamaha-f90-90-hp-fourstroke-pontoon-bay-boat-pitch-propeller-pitch-slip-calculator.html" class="block bg-slate-900 border border-slate-800 hover:border-blue-500/60 rounded-xl p-5 transition group">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-black uppercase bg-blue-500 text-slate-950 px-2.5 py-0.5 rounded">13" Pitch (28.6 MPH)</span>
+            <span class="text-xs text-slate-400">2.15:1 | 14.0% Slip</span>
+          </div>
+          <h2 class="text-base font-bold text-white group-hover:text-blue-400 transition">Yamaha F90 (90 HP FourStroke) Pontoon & Bay Boat Pitch</h2>
+          <p class="text-xs text-slate-400 mt-2 line-clamp-2">Calculate exact boat propeller pitch (13.75" × 13" 3-blade / 12" 4-blade), GPS speed (28.6 MPH @ 5,800 RPM), 2.15:1 gear ratio, and 14.0% prop slip for Yamaha F90 (90 HP FourStroke) Pontoon & Bay Boat Pitch.</p>
+          <span class="inline-block mt-4 text-xs font-extrabold text-blue-400">Calculate Pitch, Slip % & WOT RPM →</span>
+        </a>
+        <a href="yamaha-f115-115-hp-fourstroke-talon-135-15-pitch-propeller-pitch-slip-calculator.html" class="block bg-slate-900 border border-slate-800 hover:border-blue-500/60 rounded-xl p-5 transition group">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-black uppercase bg-blue-500 text-slate-950 px-2.5 py-0.5 rounded">15" Pitch (35.2 MPH)</span>
+            <span class="text-xs text-slate-400">2.15:1 | 11.0% Slip</span>
+          </div>
+          <h2 class="text-base font-bold text-white group-hover:text-blue-400 transition">Yamaha F115 (115 HP FourStroke) Talon 13.5" × 15" Pitch</h2>
+          <p class="text-xs text-slate-400 mt-2 line-clamp-2">Calculate exact boat propeller pitch (13.5" × 15" 3-blade / 14" 4-blade), GPS speed (35.2 MPH @ 6,000 RPM), 2.15:1 gear ratio, and 11.0% prop slip for Yamaha F115 (115 HP FourStroke) Talon 13.5" × 15" Pitch.</p>
+          <span class="inline-block mt-4 text-xs font-extrabold text-blue-400">Calculate Pitch, Slip % & WOT RPM →</span>
+        </a>
+        <a href="yamaha-f150-150-hp-fourstroke-reliance-1425-17-pitch-propeller-pitch-slip-calculator.html" class="block bg-slate-900 border border-slate-800 hover:border-blue-500/60 rounded-xl p-5 transition group">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-black uppercase bg-blue-500 text-slate-950 px-2.5 py-0.5 rounded">17" Pitch (42.0 MPH)</span>
+            <span class="text-xs text-slate-400">2.00:1 | 10.0% Slip</span>
+          </div>
+          <h2 class="text-base font-bold text-white group-hover:text-blue-400 transition">Yamaha F150 (150 HP FourStroke) Reliance 14.25" × 17" Pitch</h2>
+          <p class="text-xs text-slate-400 mt-2 line-clamp-2">Calculate exact boat propeller pitch (14.25" × 17" 3-blade / 15" 4-blade), GPS speed (42.0 MPH @ 5,800 RPM), 2.00:1 gear ratio, and 10.0% prop slip for Yamaha F150 (150 HP FourStroke) Reliance 14.25" × 17" Pitch.</p>
+          <span class="inline-block mt-4 text-xs font-extrabold text-blue-400">Calculate Pitch, Slip % & WOT RPM →</span>
+        </a></div>
+  </main>
+
+  <footer class="border-t border-slate-800 py-8 text-center text-xs text-slate-500">
+    <p>© 2026 PropPitchIndex. As an Amazon Associate, we earn from qualifying purchases.</p>
+  </footer>
+
+  <script>
+    const filterInput = document.getElementById('filterInput');
+    const cards = Array.from(document.getElementById('propGrid').children);
+    filterInput.addEventListener('input', (e) => {
+      const q = e.target.value.toLowerCase();
+      cards.forEach(c => {
+        c.style.display = c.textContent.toLowerCase().includes(q) ? 'block' : 'none';
+      });
+    });
+  </script>
+</body>
+</html>
