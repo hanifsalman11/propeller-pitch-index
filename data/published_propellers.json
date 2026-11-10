@@ -97,5 +97,38 @@
     "mph": 44.0,
     "slip": 9.5,
     "date": "2026-11-10"
+  },
+  {
+    "prop_name": "Mercury 200 / 225 / 250 Pro XS V8 (4.6L) Fury 23\" Pitch",
+    "slug": "mercury-200-225-250-pro-xs-v8-46l-fury-23-pitch-propeller-pitch-slip-calculator",
+    "title": "Mercury 200 / 225 / 250 Pro XS V8 (4.6L) Fury 23\" Pitch Propeller Pitch, Slip % & WOT RPM Calculator (2026)",
+    "description": "Calculate exact boat propeller pitch (14.0\" × 23\" 3-blade / 21\" 4-blade), GPS speed (68.7 MPH @ 6,000 RPM), 1.75:1 gear ratio, and 8.0% prop slip for Mercury 200 / 225 / 250 Pro XS V8 (4.6L) Fury 23\" Pitch.",
+    "pitch": 23,
+    "ratio": 1.75,
+    "mph": 68.7,
+    "slip": 8.0,
+    "date": "2026-11-10"
+  },
+  {
+    "prop_name": "Mercury 90 HP FourStroke (2.1L) Black Max & Spitfire 4-Blade",
+    "slug": "mercury-90-hp-fourstroke-21l-black-max-spitfire-4-blade-propeller-pitch-slip-calculator",
+    "title": "Mercury 90 HP FourStroke (2.1L) Black Max & Spitfire 4-Blade Propeller Pitch, Slip % & WOT RPM Calculator (2026)",
+    "description": "Calculate exact boat propeller pitch (13.5\" × 15\" 3-blade / 14\" 4-blade), GPS speed (35.0 MPH @ 5,800 RPM), 2.07:1 gear ratio, and 12.0% prop slip for Mercury 90 HP FourStroke (2.1L) Black Max & Spitfire 4-Blade.",
+    "pitch": 15,
+    "ratio": 2.07,
+    "mph": 35.0,
+    "slip": 12.0,
+    "date": "2026-11-10"
+  },
+  {
+    "prop_name": "Mercury 60 HP FourStroke BigFoot / Command Thrust Pontoon",
+    "slug": "mercury-60-hp-fourstroke-bigfoot-command-thrust-pontoon-propeller-pitch-slip-calculator",
+    "title": "Mercury 60 HP FourStroke BigFoot / Command Thrust Pontoon Propeller Pitch, Slip % & WOT RPM Calculator (2026)",
+    "description": "Calculate exact boat propeller pitch (14.0\" × 11\" 3-blade / 10\" 4-blade), GPS speed (21.8 MPH @ 5,800 RPM), 2.33:1 gear ratio, and 16.0% prop slip for Mercury 60 HP FourStroke BigFoot / Command Thrust Pontoon.",
+    "pitch": 11,
+    "ratio": 2.33,
+    "mph": 21.8,
+    "slip": 16.0,
+    "date": "2026-11-10"
   }
 ]
