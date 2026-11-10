@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://hanifsalman11.github.io/propeller-pitch-index/</loc>
-    <lastmod>2026-11-09</lastmod>
+    <lastmod>2026-11-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -39,6 +39,24 @@
   <url>
     <loc>https://hanifsalman11.github.io/propeller-pitch-index/yamaha-f60-f70-60-70-hp-aluminum-skiff-pitch-propeller-pitch-slip-calculator.html</loc>
     <lastmod>2026-11-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://hanifsalman11.github.io/propeller-pitch-index/mercury-115-pro-xs-fourstroke-207-ratio-vs-command-thrust-propeller-pitch-slip-calculator.html</loc>
+    <lastmod>2026-11-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://hanifsalman11.github.io/propeller-pitch-index/mercury-115-command-thrust-238-ratio-pontoon-14-pitch-propeller-pitch-slip-calculator.html</loc>
+    <lastmod>2026-11-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://hanifsalman11.github.io/propeller-pitch-index/mercury-150-fourstroke-pro-xs-30l-enertia-15-17-pitch-propeller-pitch-slip-calculator.html</loc>
+    <lastmod>2026-11-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>

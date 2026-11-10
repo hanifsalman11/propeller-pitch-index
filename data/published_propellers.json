@@ -64,5 +64,38 @@
     "mph": 27.9,
     "slip": 12.0,
     "date": "2026-11-09"
+  },
+  {
+    "prop_name": "Mercury 115 Pro XS FourStroke (2.07 Ratio) vs Command Thrust",
+    "slug": "mercury-115-pro-xs-fourstroke-207-ratio-vs-command-thrust-propeller-pitch-slip-calculator",
+    "title": "Mercury 115 Pro XS FourStroke (2.07 Ratio) vs Command Thrust Propeller Pitch, Slip % & WOT RPM Calculator (2026)",
+    "description": "Calculate exact boat propeller pitch (13.25\" × 17\" 3-blade / 15\" 4-blade), GPS speed (41.8 MPH @ 6,000 RPM), 2.07:1 gear ratio, and 10.5% prop slip for Mercury 115 Pro XS FourStroke (2.07 Ratio) vs Command Thrust.",
+    "pitch": 17,
+    "ratio": 2.07,
+    "mph": 41.8,
+    "slip": 10.5,
+    "date": "2026-11-10"
+  },
+  {
+    "prop_name": "Mercury 115 Command Thrust (2.38 Ratio) Pontoon 14\" Pitch",
+    "slug": "mercury-115-command-thrust-238-ratio-pontoon-14-pitch-propeller-pitch-slip-calculator",
+    "title": "Mercury 115 Command Thrust (2.38 Ratio) Pontoon 14\" Pitch Propeller Pitch, Slip % & WOT RPM Calculator (2026)",
+    "description": "Calculate exact boat propeller pitch (14.5\" × 14\" 3-blade / 13\" 4-blade), GPS speed (27.5 MPH @ 5,800 RPM), 2.38:1 gear ratio, and 15.0% prop slip for Mercury 115 Command Thrust (2.38 Ratio) Pontoon 14\" Pitch.",
+    "pitch": 14,
+    "ratio": 2.38,
+    "mph": 27.5,
+    "slip": 15.0,
+    "date": "2026-11-10"
+  },
+  {
+    "prop_name": "Mercury 150 FourStroke / Pro XS (3.0L) Enertia 15\" × 17\" Pitch",
+    "slug": "mercury-150-fourstroke-pro-xs-30l-enertia-15-17-pitch-propeller-pitch-slip-calculator",
+    "title": "Mercury 150 FourStroke / Pro XS (3.0L) Enertia 15\" × 17\" Pitch Propeller Pitch, Slip % & WOT RPM Calculator (2026)",
+    "description": "Calculate exact boat propeller pitch (15.0\" × 17\" 3-blade / 15\" 4-blade), GPS speed (44.0 MPH @ 5,800 RPM), 1.92:1 gear ratio, and 9.5% prop slip for Mercury 150 FourStroke / Pro XS (3.0L) Enertia 15\" × 17\" Pitch.",
+    "pitch": 17,
+    "ratio": 1.92,
+    "mph": 44.0,
+    "slip": 9.5,
+    "date": "2026-11-10"
   }
 ]
