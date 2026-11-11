@@ -163,5 +163,38 @@
     "mph": 42.4,
     "slip": 9.5,
     "date": "2026-11-11"
+  },
+  {
+    "prop_name": "Suzuki DF300AP (2.08 Gear Ratio) Watergrip 3-Blade & 4-Blade",
+    "slug": "suzuki-df300ap-208-gear-ratio-watergrip-3-blade-4-blade-propeller-pitch-slip-calculator",
+    "title": "Suzuki DF300AP (2.08 Gear Ratio) Watergrip 3-Blade & 4-Blade Propeller Pitch, Slip % & WOT RPM Calculator (2026)",
+    "description": "Calculate exact boat propeller pitch (16.0\" × 20\" 3-blade / 18\" 4-blade), GPS speed (49.7 MPH @ 6,000 RPM), 2.08:1 gear ratio, and 9.0% prop slip for Suzuki DF300AP (2.08 Gear Ratio) Watergrip 3-Blade & 4-Blade.",
+    "pitch": 20,
+    "ratio": 2.08,
+    "mph": 49.7,
+    "slip": 9.0,
+    "date": "2026-11-11"
+  },
+  {
+    "prop_name": "Honda BF90 / BF100 & BF115 / BF150 VTEC Propeller Sizing",
+    "slug": "honda-bf90-bf100-bf115-bf150-vtec-propeller-sizing-propeller-pitch-slip-calculator",
+    "title": "Honda BF90 / BF100 & BF115 / BF150 VTEC Propeller Sizing Propeller Pitch, Slip % & WOT RPM Calculator (2026)",
+    "description": "Calculate exact boat propeller pitch (14.25\" × 17\" 3-blade / 15\" 4-blade), GPS speed (39.0 MPH @ 5,800 RPM), 2.14:1 gear ratio, and 10.5% prop slip for Honda BF90 / BF100 & BF115 / BF150 VTEC Propeller Sizing.",
+    "pitch": 17,
+    "ratio": 2.14,
+    "mph": 39.0,
+    "slip": 10.5,
+    "date": "2026-11-11"
+  },
+  {
+    "prop_name": "Tohatsu MFS60 / MFS90 / MFS115 High-Thrust Propeller Sizing",
+    "slug": "tohatsu-mfs60-mfs90-mfs115-high-thrust-propeller-sizing-propeller-pitch-slip-calculator",
+    "title": "Tohatsu MFS60 / MFS90 / MFS115 High-Thrust Propeller Sizing Propeller Pitch, Slip % & WOT RPM Calculator (2026)",
+    "description": "Calculate exact boat propeller pitch (13.5\" × 15\" 3-blade / 14\" 4-blade), GPS speed (35.0 MPH @ 5,800 RPM), 2.08:1 gear ratio, and 11.5% prop slip for Tohatsu MFS60 / MFS90 / MFS115 High-Thrust Propeller Sizing.",
+    "pitch": 15,
+    "ratio": 2.08,
+    "mph": 35.0,
+    "slip": 11.5,
+    "date": "2026-11-11"
   }
 ]
