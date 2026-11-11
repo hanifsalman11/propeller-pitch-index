@@ -130,5 +130,38 @@
     "mph": 21.8,
     "slip": 16.0,
     "date": "2026-11-10"
+  },
+  {
+    "prop_name": "Suzuki DF140A / DF140B (2.59 Gear Ratio) 14\" × 21\" Pitch",
+    "slug": "suzuki-df140a-df140b-259-gear-ratio-14-21-pitch-propeller-pitch-slip-calculator",
+    "title": "Suzuki DF140A / DF140B (2.59 Gear Ratio) 14\" × 21\" Pitch Propeller Pitch, Slip % & WOT RPM Calculator (2026)",
+    "description": "Calculate exact boat propeller pitch (14.0\" × 21\" 3-blade / 19\" 4-blade), GPS speed (41.5 MPH @ 6,000 RPM), 2.59:1 gear ratio, and 10.0% prop slip for Suzuki DF140A / DF140B (2.59 Gear Ratio) 14\" × 21\" Pitch.",
+    "pitch": 21,
+    "ratio": 2.59,
+    "mph": 41.5,
+    "slip": 10.0,
+    "date": "2026-11-11"
+  },
+  {
+    "prop_name": "Suzuki DF115A / DF115B (2.59 Gear Ratio) 14\" × 19\" Pitch",
+    "slug": "suzuki-df115a-df115b-259-gear-ratio-14-19-pitch-propeller-pitch-slip-calculator",
+    "title": "Suzuki DF115A / DF115B (2.59 Gear Ratio) 14\" × 19\" Pitch Propeller Pitch, Slip % & WOT RPM Calculator (2026)",
+    "description": "Calculate exact boat propeller pitch (14.0\" × 19\" 3-blade / 17\" 4-blade), GPS speed (35.9 MPH @ 5,800 RPM), 2.59:1 gear ratio, and 11.0% prop slip for Suzuki DF115A / DF115B (2.59 Gear Ratio) 14\" × 19\" Pitch.",
+    "pitch": 19,
+    "ratio": 2.59,
+    "mph": 35.9,
+    "slip": 11.0,
+    "date": "2026-11-11"
+  },
+  {
+    "prop_name": "Suzuki DF150 / DF175 / DF200 (2.50 Big-Block Ratio) 21\" Pitch",
+    "slug": "suzuki-df150-df175-df200-250-big-block-ratio-21-pitch-propeller-pitch-slip-calculator",
+    "title": "Suzuki DF150 / DF175 / DF200 (2.50 Big-Block Ratio) 21\" Pitch Propeller Pitch, Slip % & WOT RPM Calculator (2026)",
+    "description": "Calculate exact boat propeller pitch (15.0\" × 21\" 3-blade / 19\" 4-blade), GPS speed (42.4 MPH @ 5,900 RPM), 2.50:1 gear ratio, and 9.5% prop slip for Suzuki DF150 / DF175 / DF200 (2.50 Big-Block Ratio) 21\" Pitch.",
+    "pitch": 21,
+    "ratio": 2.5,
+    "mph": 42.4,
+    "slip": 9.5,
+    "date": "2026-11-11"
   }
 ]

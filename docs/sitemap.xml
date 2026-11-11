@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://hanifsalman11.github.io/propeller-pitch-index/</loc>
-    <lastmod>2026-11-10</lastmod>
+    <lastmod>2026-11-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -75,6 +75,24 @@
   <url>
     <loc>https://hanifsalman11.github.io/propeller-pitch-index/mercury-60-hp-fourstroke-bigfoot-command-thrust-pontoon-propeller-pitch-slip-calculator.html</loc>
     <lastmod>2026-11-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://hanifsalman11.github.io/propeller-pitch-index/suzuki-df140a-df140b-259-gear-ratio-14-21-pitch-propeller-pitch-slip-calculator.html</loc>
+    <lastmod>2026-11-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://hanifsalman11.github.io/propeller-pitch-index/suzuki-df115a-df115b-259-gear-ratio-14-19-pitch-propeller-pitch-slip-calculator.html</loc>
+    <lastmod>2026-11-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://hanifsalman11.github.io/propeller-pitch-index/suzuki-df150-df175-df200-250-big-block-ratio-21-pitch-propeller-pitch-slip-calculator.html</loc>
+    <lastmod>2026-11-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
