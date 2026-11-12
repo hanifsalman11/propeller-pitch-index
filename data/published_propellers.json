@@ -196,5 +196,38 @@
     "mph": 35.0,
     "slip": 11.5,
     "date": "2026-11-11"
+  },
+  {
+    "prop_name": "MerCruiser Alpha One Gen 2 (4.3L V6 — 1.81 Ratio) 19\" Pitch",
+    "slug": "mercruiser-alpha-one-gen-2-43l-v6-181-ratio-19-pitch-propeller-pitch-slip-calculator",
+    "title": "MerCruiser Alpha One Gen 2 (4.3L V6 — 1.81 Ratio) 19\" Pitch Propeller Pitch, Slip % & WOT RPM Calculator (2026)",
+    "description": "Calculate exact boat propeller pitch (14.25\" × 19\" 3-blade / 17\" 4-blade), GPS speed (42.5 MPH @ 4,800 RPM), 1.81:1 gear ratio, and 11.0% prop slip for MerCruiser Alpha One Gen 2 (4.3L V6 — 1.81 Ratio) 19\" Pitch.",
+    "pitch": 19,
+    "ratio": 1.81,
+    "mph": 42.5,
+    "slip": 11.0,
+    "date": "2026-11-12"
+  },
+  {
+    "prop_name": "MerCruiser Alpha One Gen 2 (5.0L / 5.7L V8 — 1.47 Ratio) 19\" Pitch",
+    "slug": "mercruiser-alpha-one-gen-2-50l-57l-v8-147-ratio-19-pitch-propeller-pitch-slip-calculator",
+    "title": "MerCruiser Alpha One Gen 2 (5.0L / 5.7L V8 — 1.47 Ratio) 19\" Pitch Propeller Pitch, Slip % & WOT RPM Calculator (2026)",
+    "description": "Calculate exact boat propeller pitch (14.25\" × 19\" 3-blade / 17\" 4-blade), GPS speed (52.6 MPH @ 4,800 RPM), 1.47:1 gear ratio, and 10.5% prop slip for MerCruiser Alpha One Gen 2 (5.0L / 5.7L V8 — 1.47 Ratio) 19\" Pitch.",
+    "pitch": 19,
+    "ratio": 1.47,
+    "mph": 52.6,
+    "slip": 10.5,
+    "date": "2026-11-12"
+  },
+  {
+    "prop_name": "MerCruiser Alpha One (3.0L 4-Cylinder — 1.98 Ratio) 17\" Pitch",
+    "slug": "mercruiser-alpha-one-30l-4-cylinder-198-ratio-17-pitch-propeller-pitch-slip-calculator",
+    "title": "MerCruiser Alpha One (3.0L 4-Cylinder — 1.98 Ratio) 17\" Pitch Propeller Pitch, Slip % & WOT RPM Calculator (2026)",
+    "description": "Calculate exact boat propeller pitch (14.5\" × 17\" 3-blade / 15\" 4-blade), GPS speed (32.9 MPH @ 4,600 RPM), 1.98:1 gear ratio, and 12.0% prop slip for MerCruiser Alpha One (3.0L 4-Cylinder — 1.98 Ratio) 17\" Pitch.",
+    "pitch": 17,
+    "ratio": 1.98,
+    "mph": 32.9,
+    "slip": 12.0,
+    "date": "2026-11-12"
   }
 ]

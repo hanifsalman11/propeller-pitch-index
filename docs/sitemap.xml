@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://hanifsalman11.github.io/propeller-pitch-index/</loc>
-    <lastmod>2026-11-11</lastmod>
+    <lastmod>2026-11-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -111,6 +111,24 @@
   <url>
     <loc>https://hanifsalman11.github.io/propeller-pitch-index/tohatsu-mfs60-mfs90-mfs115-high-thrust-propeller-sizing-propeller-pitch-slip-calculator.html</loc>
     <lastmod>2026-11-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://hanifsalman11.github.io/propeller-pitch-index/mercruiser-alpha-one-gen-2-43l-v6-181-ratio-19-pitch-propeller-pitch-slip-calculator.html</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://hanifsalman11.github.io/propeller-pitch-index/mercruiser-alpha-one-gen-2-50l-57l-v8-147-ratio-19-pitch-propeller-pitch-slip-calculator.html</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://hanifsalman11.github.io/propeller-pitch-index/mercruiser-alpha-one-30l-4-cylinder-198-ratio-17-pitch-propeller-pitch-slip-calculator.html</loc>
+    <lastmod>2026-11-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
