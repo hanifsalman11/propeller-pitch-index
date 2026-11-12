@@ -229,5 +229,38 @@
     "mph": 32.9,
     "slip": 12.0,
     "date": "2026-11-12"
+  },
+  {
+    "prop_name": "MerCruiser Bravo One & Bravo Three (6.2L / 7.4L) Prop Sizing",
+    "slug": "mercruiser-bravo-one-bravo-three-62l-74l-prop-sizing-propeller-pitch-slip-calculator",
+    "title": "MerCruiser Bravo One & Bravo Three (6.2L / 7.4L) Prop Sizing Propeller Pitch, Slip % & WOT RPM Calculator (2026)",
+    "description": "Calculate exact boat propeller pitch (14.75\" × 21\" 3-blade / 19\" 4-blade), GPS speed (60.0 MPH @ 5,000 RPM), 1.50:1 gear ratio, and 9.5% prop slip for MerCruiser Bravo One & Bravo Three (6.2L / 7.4L) Prop Sizing.",
+    "pitch": 21,
+    "ratio": 1.5,
+    "mph": 60.0,
+    "slip": 9.5,
+    "date": "2026-11-12"
+  },
+  {
+    "prop_name": "Volvo Penta SX & DPS Sterndrive (4.3L / 5.0L / 5.7L) Pitch",
+    "slug": "volvo-penta-sx-dps-sterndrive-43l-50l-57l-pitch-propeller-pitch-slip-calculator",
+    "title": "Volvo Penta SX & DPS Sterndrive (4.3L / 5.0L / 5.7L) Pitch Propeller Pitch, Slip % & WOT RPM Calculator (2026)",
+    "description": "Calculate exact boat propeller pitch (14.5\" × 19\" 3-blade / 17\" 4-blade), GPS speed (48.3 MPH @ 4,800 RPM), 1.60:1 gear ratio, and 10.5% prop slip for Volvo Penta SX & DPS Sterndrive (4.3L / 5.0L / 5.7L) Pitch.",
+    "pitch": 19,
+    "ratio": 1.6,
+    "mph": 48.3,
+    "slip": 10.5,
+    "date": "2026-11-12"
+  },
+  {
+    "prop_name": "Solas Amita 3 vs Amita 4 Aluminum Propeller Pitch Conversion",
+    "slug": "solas-amita-3-vs-amita-4-aluminum-propeller-pitch-conversion-propeller-pitch-slip-calculator",
+    "title": "Solas Amita 3 vs Amita 4 Aluminum Propeller Pitch Conversion Propeller Pitch, Slip % & WOT RPM Calculator (2026)",
+    "description": "Calculate exact boat propeller pitch (14.0\" × 15\" 3-blade / 14\" 4-blade), GPS speed (36.3 MPH @ 5,800 RPM), 2.00:1 gear ratio, and 12.0% prop slip for Solas Amita 3 vs Amita 4 Aluminum Propeller Pitch Conversion.",
+    "pitch": 15,
+    "ratio": 2.0,
+    "mph": 36.3,
+    "slip": 12.0,
+    "date": "2026-11-12"
   }
 ]
