@@ -394,5 +394,38 @@
     "mph": 41.8,
     "slip": 10.5,
     "date": "2026-11-14"
+  },
+  {
+    "prop_name": "Boat Prop  Free",
+    "slug": "boat-prop-free-propeller-pitch-slip-calculator",
+    "title": "Boat Prop  Free Propeller Pitch, Slip % & WOT RPM Calculator (2026)",
+    "description": "Calculate exact boat propeller pitch (14.25\" × 17\" 3-blade / 15\" 4-blade), GPS speed (41.8 MPH @ 5,800 RPM), 2.00:1 gear ratio, and 10.5% prop slip for Boat Prop  Free.",
+    "pitch": 17,
+    "ratio": 2.0,
+    "mph": 41.8,
+    "slip": 10.5,
+    "date": "2026-11-14"
+  },
+  {
+    "prop_name": "Boat Prop  Wizard Free",
+    "slug": "boat-prop-wizard-free-propeller-pitch-slip-calculator",
+    "title": "Boat Prop  Wizard Free Propeller Pitch, Slip % & WOT RPM Calculator (2026)",
+    "description": "Calculate exact boat propeller pitch (14.25\" × 17\" 3-blade / 15\" 4-blade), GPS speed (41.8 MPH @ 5,800 RPM), 2.00:1 gear ratio, and 10.5% prop slip for Boat Prop  Wizard Free.",
+    "pitch": 17,
+    "ratio": 2.0,
+    "mph": 41.8,
+    "slip": 10.5,
+    "date": "2026-11-14"
+  },
+  {
+    "prop_name": "Boat Prop  Suzuki",
+    "slug": "boat-prop-suzuki-propeller-pitch-slip-calculator",
+    "title": "Boat Prop  Suzuki Propeller Pitch, Slip % & WOT RPM Calculator (2026)",
+    "description": "Calculate exact boat propeller pitch (14.25\" × 17\" 3-blade / 15\" 4-blade), GPS speed (41.8 MPH @ 5,800 RPM), 2.00:1 gear ratio, and 10.5% prop slip for Boat Prop  Suzuki.",
+    "pitch": 17,
+    "ratio": 2.0,
+    "mph": 41.8,
+    "slip": 10.5,
+    "date": "2026-11-14"
   }
 ]
