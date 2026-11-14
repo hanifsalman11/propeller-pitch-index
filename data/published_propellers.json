@@ -328,5 +328,38 @@
     "mph": 47.0,
     "slip": 10.0,
     "date": "2026-11-13"
+  },
+  {
+    "prop_name": "Boat Propeller",
+    "slug": "boat-propeller-propeller-pitch-slip-calculator",
+    "title": "Boat Propeller Propeller Pitch, Slip % & WOT RPM Calculator (2026)",
+    "description": "Calculate exact boat propeller pitch (14.25\" × 17\" 3-blade / 15\" 4-blade), GPS speed (41.8 MPH @ 5,800 RPM), 2.00:1 gear ratio, and 10.5% prop slip for Boat Propeller.",
+    "pitch": 17,
+    "ratio": 2.0,
+    "mph": 41.8,
+    "slip": 10.5,
+    "date": "2026-11-14"
+  },
+  {
+    "prop_name": "Australia",
+    "slug": "australia-propeller-pitch-slip-calculator",
+    "title": "Australia Propeller Pitch, Slip % & WOT RPM Calculator (2026)",
+    "description": "Calculate exact boat propeller pitch (14.25\" × 17\" 3-blade / 15\" 4-blade), GPS speed (41.8 MPH @ 5,800 RPM), 2.00:1 gear ratio, and 10.5% prop slip for Australia.",
+    "pitch": 17,
+    "ratio": 2.0,
+    "mph": 41.8,
+    "slip": 10.5,
+    "date": "2026-11-14"
+  },
+  {
+    "prop_name": "App Free Download",
+    "slug": "app-free-download-propeller-pitch-slip-calculator",
+    "title": "App Free Download Propeller Pitch, Slip % & WOT RPM Calculator (2026)",
+    "description": "Calculate exact boat propeller pitch (14.25\" × 17\" 3-blade / 15\" 4-blade), GPS speed (41.8 MPH @ 5,800 RPM), 2.00:1 gear ratio, and 10.5% prop slip for App Free Download.",
+    "pitch": 17,
+    "ratio": 2.0,
+    "mph": 41.8,
+    "slip": 10.5,
+    "date": "2026-11-14"
   }
 ]
