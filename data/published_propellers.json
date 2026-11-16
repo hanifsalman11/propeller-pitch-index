@@ -493,5 +493,38 @@
     "mph": 41.8,
     "slip": 10.5,
     "date": "2026-11-15"
+  },
+  {
+    "prop_name": "A Yamaha 115",
+    "slug": "a-yamaha-115-propeller-pitch-slip-calculator",
+    "title": "A Yamaha 115 Propeller Pitch, Slip % & WOT RPM Calculator (2026)",
+    "description": "Calculate exact boat propeller pitch (14.25\" × 17\" 3-blade / 15\" 4-blade), GPS speed (41.8 MPH @ 5,800 RPM), 2.00:1 gear ratio, and 10.5% prop slip for A Yamaha 115.",
+    "pitch": 17,
+    "ratio": 2.0,
+    "mph": 41.8,
+    "slip": 10.5,
+    "date": "2026-11-16"
+  },
+  {
+    "prop_name": "A 90 Hp Mercury",
+    "slug": "a-90-hp-mercury-propeller-pitch-slip-calculator",
+    "title": "A 90 Hp Mercury Propeller Pitch, Slip % & WOT RPM Calculator (2026)",
+    "description": "Calculate exact boat propeller pitch (14.25\" × 17\" 3-blade / 15\" 4-blade), GPS speed (41.8 MPH @ 5,800 RPM), 2.00:1 gear ratio, and 10.5% prop slip for A 90 Hp Mercury.",
+    "pitch": 17,
+    "ratio": 2.0,
+    "mph": 41.8,
+    "slip": 10.5,
+    "date": "2026-11-16"
+  },
+  {
+    "prop_name": "115 Mercury",
+    "slug": "115-mercury-propeller-pitch-slip-calculator",
+    "title": "115 Mercury Propeller Pitch, Slip % & WOT RPM Calculator (2026)",
+    "description": "Calculate exact boat propeller pitch (14.25\" × 17\" 3-blade / 15\" 4-blade), GPS speed (41.8 MPH @ 5,800 RPM), 2.00:1 gear ratio, and 10.5% prop slip for 115 Mercury.",
+    "pitch": 17,
+    "ratio": 2.0,
+    "mph": 41.8,
+    "slip": 10.5,
+    "date": "2026-11-16"
   }
 ]
