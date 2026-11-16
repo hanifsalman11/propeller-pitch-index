@@ -7,6 +7,24 @@
     <atom:link href="https://hanifsalman11.github.io/propeller-pitch-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>A 4.3 Mercruiser Propeller Pitch, Slip % & WOT RPM Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/propeller-pitch-index/a-43-mercruiser-propeller-pitch-slip-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/propeller-pitch-index/a-43-mercruiser-propeller-pitch-slip-calculator.html</guid>
+      <description>Calculate exact boat propeller pitch (14.25" × 17" 3-blade / 15" 4-blade), GPS speed (41.8 MPH @ 5,800 RPM), 2.00:1 gear ratio, and 10.5% prop slip for A 4.3 Mercruiser.</description>
+    </item>
+    <item>
+      <title>50 Hp Mercury Propeller Pitch, Slip % & WOT RPM Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/propeller-pitch-index/50-hp-mercury-propeller-pitch-slip-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/propeller-pitch-index/50-hp-mercury-propeller-pitch-slip-calculator.html</guid>
+      <description>Calculate exact boat propeller pitch (14.25" × 17" 3-blade / 15" 4-blade), GPS speed (41.8 MPH @ 5,800 RPM), 2.00:1 gear ratio, and 10.5% prop slip for 50 Hp Mercury.</description>
+    </item>
+    <item>
+      <title>Yamaha 150 Propeller Pitch, Slip % & WOT RPM Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/propeller-pitch-index/yamaha-150-propeller-pitch-slip-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/propeller-pitch-index/yamaha-150-propeller-pitch-slip-calculator.html</guid>
+      <description>Calculate exact boat propeller pitch (14.25" × 17" 3-blade / 15" 4-blade), GPS speed (41.8 MPH @ 5,800 RPM), 2.00:1 gear ratio, and 10.5% prop slip for Yamaha 150.</description>
+    </item>
+    <item>
       <title>115 Mercury Propeller Pitch, Slip % & WOT RPM Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/propeller-pitch-index/115-mercury-propeller-pitch-slip-calculator.html</link>
       <guid>https://hanifsalman11.github.io/propeller-pitch-index/115-mercury-propeller-pitch-slip-calculator.html</guid>
@@ -167,24 +185,6 @@
       <link>https://hanifsalman11.github.io/propeller-pitch-index/mercruiser-bravo-one-bravo-three-62l-74l-prop-sizing-propeller-pitch-slip-calculator.html</link>
       <guid>https://hanifsalman11.github.io/propeller-pitch-index/mercruiser-bravo-one-bravo-three-62l-74l-prop-sizing-propeller-pitch-slip-calculator.html</guid>
       <description>Calculate exact boat propeller pitch (14.75" × 21" 3-blade / 19" 4-blade), GPS speed (60.0 MPH @ 5,000 RPM), 1.50:1 gear ratio, and 9.5% prop slip for MerCruiser Bravo One & Bravo Three (6.2L / 7.4L) Prop Sizing.</description>
-    </item>
-    <item>
-      <title>MerCruiser Alpha One (3.0L 4-Cylinder — 1.98 Ratio) 17" Pitch Propeller Pitch, Slip % & WOT RPM Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/propeller-pitch-index/mercruiser-alpha-one-30l-4-cylinder-198-ratio-17-pitch-propeller-pitch-slip-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/propeller-pitch-index/mercruiser-alpha-one-30l-4-cylinder-198-ratio-17-pitch-propeller-pitch-slip-calculator.html</guid>
-      <description>Calculate exact boat propeller pitch (14.5" × 17" 3-blade / 15" 4-blade), GPS speed (32.9 MPH @ 4,600 RPM), 1.98:1 gear ratio, and 12.0% prop slip for MerCruiser Alpha One (3.0L 4-Cylinder — 1.98 Ratio) 17" Pitch.</description>
-    </item>
-    <item>
-      <title>MerCruiser Alpha One Gen 2 (5.0L / 5.7L V8 — 1.47 Ratio) 19" Pitch Propeller Pitch, Slip % & WOT RPM Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/propeller-pitch-index/mercruiser-alpha-one-gen-2-50l-57l-v8-147-ratio-19-pitch-propeller-pitch-slip-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/propeller-pitch-index/mercruiser-alpha-one-gen-2-50l-57l-v8-147-ratio-19-pitch-propeller-pitch-slip-calculator.html</guid>
-      <description>Calculate exact boat propeller pitch (14.25" × 19" 3-blade / 17" 4-blade), GPS speed (52.6 MPH @ 4,800 RPM), 1.47:1 gear ratio, and 10.5% prop slip for MerCruiser Alpha One Gen 2 (5.0L / 5.7L V8 — 1.47 Ratio) 19" Pitch.</description>
-    </item>
-    <item>
-      <title>MerCruiser Alpha One Gen 2 (4.3L V6 — 1.81 Ratio) 19" Pitch Propeller Pitch, Slip % & WOT RPM Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/propeller-pitch-index/mercruiser-alpha-one-gen-2-43l-v6-181-ratio-19-pitch-propeller-pitch-slip-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/propeller-pitch-index/mercruiser-alpha-one-gen-2-43l-v6-181-ratio-19-pitch-propeller-pitch-slip-calculator.html</guid>
-      <description>Calculate exact boat propeller pitch (14.25" × 19" 3-blade / 17" 4-blade), GPS speed (42.5 MPH @ 4,800 RPM), 1.81:1 gear ratio, and 11.0% prop slip for MerCruiser Alpha One Gen 2 (4.3L V6 — 1.81 Ratio) 19" Pitch.</description>
     </item>
   </channel>
 </rss>

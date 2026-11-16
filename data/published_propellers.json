@@ -526,5 +526,38 @@
     "mph": 41.8,
     "slip": 10.5,
     "date": "2026-11-16"
+  },
+  {
+    "prop_name": "Yamaha 150",
+    "slug": "yamaha-150-propeller-pitch-slip-calculator",
+    "title": "Yamaha 150 Propeller Pitch, Slip % & WOT RPM Calculator (2026)",
+    "description": "Calculate exact boat propeller pitch (14.25\" × 17\" 3-blade / 15\" 4-blade), GPS speed (41.8 MPH @ 5,800 RPM), 2.00:1 gear ratio, and 10.5% prop slip for Yamaha 150.",
+    "pitch": 17,
+    "ratio": 2.0,
+    "mph": 41.8,
+    "slip": 10.5,
+    "date": "2026-11-16"
+  },
+  {
+    "prop_name": "50 Hp Mercury",
+    "slug": "50-hp-mercury-propeller-pitch-slip-calculator",
+    "title": "50 Hp Mercury Propeller Pitch, Slip % & WOT RPM Calculator (2026)",
+    "description": "Calculate exact boat propeller pitch (14.25\" × 17\" 3-blade / 15\" 4-blade), GPS speed (41.8 MPH @ 5,800 RPM), 2.00:1 gear ratio, and 10.5% prop slip for 50 Hp Mercury.",
+    "pitch": 17,
+    "ratio": 2.0,
+    "mph": 41.8,
+    "slip": 10.5,
+    "date": "2026-11-16"
+  },
+  {
+    "prop_name": "A 4.3 Mercruiser",
+    "slug": "a-43-mercruiser-propeller-pitch-slip-calculator",
+    "title": "A 4.3 Mercruiser Propeller Pitch, Slip % & WOT RPM Calculator (2026)",
+    "description": "Calculate exact boat propeller pitch (14.25\" × 17\" 3-blade / 15\" 4-blade), GPS speed (41.8 MPH @ 5,800 RPM), 2.00:1 gear ratio, and 10.5% prop slip for A 4.3 Mercruiser.",
+    "pitch": 17,
+    "ratio": 2.0,
+    "mph": 41.8,
+    "slip": 10.5,
+    "date": "2026-11-16"
   }
 ]
