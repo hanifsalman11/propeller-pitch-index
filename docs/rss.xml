@@ -7,6 +7,24 @@
     <atom:link href="https://hanifsalman11.github.io/propeller-pitch-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>Mercury Outboard Prop Propeller Pitch, Slip % & WOT RPM Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/propeller-pitch-index/mercury-outboard-prop-propeller-pitch-slip-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/propeller-pitch-index/mercury-outboard-prop-propeller-pitch-slip-calculator.html</guid>
+      <description>Calculate exact boat propeller pitch (14.25" × 17" 3-blade / 15" 4-blade), GPS speed (41.8 MPH @ 5,800 RPM), 2.00:1 gear ratio, and 10.5% prop slip for Mercury Outboard Prop.</description>
+    </item>
+    <item>
+      <title>Mercury Outboard Prop Shaft Removal Propeller Pitch, Slip % & WOT RPM Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/propeller-pitch-index/mercury-outboard-prop-shaft-removal-propeller-pitch-slip-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/propeller-pitch-index/mercury-outboard-prop-shaft-removal-propeller-pitch-slip-calculator.html</guid>
+      <description>Calculate exact boat propeller pitch (14.25" × 17" 3-blade / 15" 4-blade), GPS speed (41.8 MPH @ 5,800 RPM), 2.00:1 gear ratio, and 10.5% prop slip for Mercury Outboard Prop Shaft Removal.</description>
+    </item>
+    <item>
+      <title>Mercury Outboard Prop Shaft Removal Tool Propeller Pitch, Slip % & WOT RPM Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/propeller-pitch-index/mercury-outboard-prop-shaft-removal-tool-propeller-pitch-slip-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/propeller-pitch-index/mercury-outboard-prop-shaft-removal-tool-propeller-pitch-slip-calculator.html</guid>
+      <description>Calculate exact boat propeller pitch (14.25" × 17" 3-blade / 15" 4-blade), GPS speed (41.8 MPH @ 5,800 RPM), 2.00:1 gear ratio, and 10.5% prop slip for Mercury Outboard Prop Shaft Removal Tool.</description>
+    </item>
+    <item>
       <title>Mercury Outboard Prop Replacement Propeller Pitch, Slip % & WOT RPM Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/propeller-pitch-index/mercury-outboard-prop-replacement-propeller-pitch-slip-calculator.html</link>
       <guid>https://hanifsalman11.github.io/propeller-pitch-index/mercury-outboard-prop-replacement-propeller-pitch-slip-calculator.html</guid>
@@ -167,24 +185,6 @@
       <link>https://hanifsalman11.github.io/propeller-pitch-index/18-to-21-ft-bass-boat-150-hp-250-hp-jack-plate-pitch-propeller-pitch-slip-calculator.html</link>
       <guid>https://hanifsalman11.github.io/propeller-pitch-index/18-to-21-ft-bass-boat-150-hp-250-hp-jack-plate-pitch-propeller-pitch-slip-calculator.html</guid>
       <description>Calculate exact boat propeller pitch (14.5" × 23" 3-blade / 21" 4-blade), GPS speed (63.6 MPH @ 5,900 RPM), 1.86:1 gear ratio, and 8.0% prop slip for 18-to-21 Ft Bass Boat (150 HP – 250 HP) Jack Plate & Pitch.</description>
-    </item>
-    <item>
-      <title>20-to-24 Ft Pontoon Boat (90 HP – 150 HP) High-Thrust Prop Propeller Pitch, Slip % & WOT RPM Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/propeller-pitch-index/20-to-24-ft-pontoon-boat-90-hp-150-hp-high-thrust-prop-propeller-pitch-slip-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/propeller-pitch-index/20-to-24-ft-pontoon-boat-90-hp-150-hp-high-thrust-prop-propeller-pitch-slip-calculator.html</guid>
-      <description>Calculate exact boat propeller pitch (14.25" × 13" 3-blade / 12" 4-blade), GPS speed (27.9 MPH @ 5,800 RPM), 2.15:1 gear ratio, and 16.0% prop slip for 20-to-24 Ft Pontoon Boat (90 HP – 150 HP) High-Thrust Prop.</description>
-    </item>
-    <item>
-      <title>Turning Point Hustler 3-Blade vs 4-Blade Aluminum Prop Sizing Propeller Pitch, Slip % & WOT RPM Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/propeller-pitch-index/turning-point-hustler-3-blade-vs-4-blade-aluminum-prop-sizing-propeller-pitch-slip-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/propeller-pitch-index/turning-point-hustler-3-blade-vs-4-blade-aluminum-prop-sizing-propeller-pitch-slip-calculator.html</guid>
-      <description>Calculate exact boat propeller pitch (13.75" × 17" 3-blade / 15" 4-blade), GPS speed (40.1 MPH @ 5,800 RPM), 2.07:1 gear ratio, and 11.0% prop slip for Turning Point Hustler 3-Blade vs 4-Blade Aluminum Prop Sizing.</description>
-    </item>
-    <item>
-      <title>Solas Rubex L3 vs Rubex HR4 Stainless Propeller Pitch Sizing Propeller Pitch, Slip % & WOT RPM Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/propeller-pitch-index/solas-rubex-l3-vs-rubex-hr4-stainless-propeller-pitch-sizing-propeller-pitch-slip-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/propeller-pitch-index/solas-rubex-l3-vs-rubex-hr4-stainless-propeller-pitch-sizing-propeller-pitch-slip-calculator.html</guid>
-      <description>Calculate exact boat propeller pitch (14.25" × 17" 3-blade / 15" 4-blade), GPS speed (42.3 MPH @ 5,800 RPM), 2.00:1 gear ratio, and 9.5% prop slip for Solas Rubex L3 vs Rubex HR4 Stainless Propeller Pitch Sizing.</description>
     </item>
   </channel>
 </rss>

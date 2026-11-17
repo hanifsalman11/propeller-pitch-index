@@ -592,5 +592,38 @@
     "mph": 41.8,
     "slip": 10.5,
     "date": "2026-11-17"
+  },
+  {
+    "prop_name": "Mercury Outboard Prop Shaft Removal Tool",
+    "slug": "mercury-outboard-prop-shaft-removal-tool-propeller-pitch-slip-calculator",
+    "title": "Mercury Outboard Prop Shaft Removal Tool Propeller Pitch, Slip % & WOT RPM Calculator (2026)",
+    "description": "Calculate exact boat propeller pitch (14.25\" × 17\" 3-blade / 15\" 4-blade), GPS speed (41.8 MPH @ 5,800 RPM), 2.00:1 gear ratio, and 10.5% prop slip for Mercury Outboard Prop Shaft Removal Tool.",
+    "pitch": 17,
+    "ratio": 2.0,
+    "mph": 41.8,
+    "slip": 10.5,
+    "date": "2026-11-17"
+  },
+  {
+    "prop_name": "Mercury Outboard Prop Shaft Removal",
+    "slug": "mercury-outboard-prop-shaft-removal-propeller-pitch-slip-calculator",
+    "title": "Mercury Outboard Prop Shaft Removal Propeller Pitch, Slip % & WOT RPM Calculator (2026)",
+    "description": "Calculate exact boat propeller pitch (14.25\" × 17\" 3-blade / 15\" 4-blade), GPS speed (41.8 MPH @ 5,800 RPM), 2.00:1 gear ratio, and 10.5% prop slip for Mercury Outboard Prop Shaft Removal.",
+    "pitch": 17,
+    "ratio": 2.0,
+    "mph": 41.8,
+    "slip": 10.5,
+    "date": "2026-11-17"
+  },
+  {
+    "prop_name": "Mercury Outboard Prop",
+    "slug": "mercury-outboard-prop-propeller-pitch-slip-calculator",
+    "title": "Mercury Outboard Prop Propeller Pitch, Slip % & WOT RPM Calculator (2026)",
+    "description": "Calculate exact boat propeller pitch (14.25\" × 17\" 3-blade / 15\" 4-blade), GPS speed (41.8 MPH @ 5,800 RPM), 2.00:1 gear ratio, and 10.5% prop slip for Mercury Outboard Prop.",
+    "pitch": 17,
+    "ratio": 2.0,
+    "mph": 41.8,
+    "slip": 10.5,
+    "date": "2026-11-17"
   }
 ]
