@@ -559,5 +559,38 @@
     "mph": 41.8,
     "slip": 10.5,
     "date": "2026-11-16"
+  },
+  {
+    "prop_name": "3.0 Mercruiser",
+    "slug": "30-mercruiser-propeller-pitch-slip-calculator",
+    "title": "3.0 Mercruiser Propeller Pitch, Slip % & WOT RPM Calculator (2026)",
+    "description": "Calculate exact boat propeller pitch (14.25\" × 17\" 3-blade / 15\" 4-blade), GPS speed (41.8 MPH @ 5,800 RPM), 2.00:1 gear ratio, and 10.5% prop slip for 3.0 Mercruiser.",
+    "pitch": 17,
+    "ratio": 2.0,
+    "mph": 41.8,
+    "slip": 10.5,
+    "date": "2026-11-17"
+  },
+  {
+    "prop_name": "Mercury Outboard Prop Guard",
+    "slug": "mercury-outboard-prop-guard-propeller-pitch-slip-calculator",
+    "title": "Mercury Outboard Prop Guard Propeller Pitch, Slip % & WOT RPM Calculator (2026)",
+    "description": "Calculate exact boat propeller pitch (14.25\" × 17\" 3-blade / 15\" 4-blade), GPS speed (41.8 MPH @ 5,800 RPM), 2.00:1 gear ratio, and 10.5% prop slip for Mercury Outboard Prop Guard.",
+    "pitch": 17,
+    "ratio": 2.0,
+    "mph": 41.8,
+    "slip": 10.5,
+    "date": "2026-11-17"
+  },
+  {
+    "prop_name": "Mercury Outboard Prop Replacement",
+    "slug": "mercury-outboard-prop-replacement-propeller-pitch-slip-calculator",
+    "title": "Mercury Outboard Prop Replacement Propeller Pitch, Slip % & WOT RPM Calculator (2026)",
+    "description": "Calculate exact boat propeller pitch (14.25\" × 17\" 3-blade / 15\" 4-blade), GPS speed (41.8 MPH @ 5,800 RPM), 2.00:1 gear ratio, and 10.5% prop slip for Mercury Outboard Prop Replacement.",
+    "pitch": 17,
+    "ratio": 2.0,
+    "mph": 41.8,
+    "slip": 10.5,
+    "date": "2026-11-17"
   }
 ]
