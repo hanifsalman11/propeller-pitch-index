@@ -625,5 +625,38 @@
     "mph": 41.8,
     "slip": 10.5,
     "date": "2026-11-17"
+  },
+  {
+    "prop_name": "Mercury Outboard Prop Hub Kit",
+    "slug": "mercury-outboard-prop-hub-kit-propeller-pitch-slip-calculator",
+    "title": "Mercury Outboard Prop Hub Kit Propeller Pitch, Slip % & WOT RPM Calculator (2026)",
+    "description": "Calculate exact boat propeller pitch (14.25\" × 17\" 3-blade / 15\" 4-blade), GPS speed (41.8 MPH @ 5,800 RPM), 2.00:1 gear ratio, and 10.5% prop slip for Mercury Outboard Prop Hub Kit.",
+    "pitch": 17,
+    "ratio": 2.0,
+    "mph": 41.8,
+    "slip": 10.5,
+    "date": "2026-11-18"
+  },
+  {
+    "prop_name": "Yamaha Outboard Prop Selector",
+    "slug": "yamaha-outboard-prop-selector-propeller-pitch-slip-calculator",
+    "title": "Yamaha Outboard Prop Selector Propeller Pitch, Slip % & WOT RPM Calculator (2026)",
+    "description": "Calculate exact boat propeller pitch (14.25\" × 17\" 3-blade / 15\" 4-blade), GPS speed (41.8 MPH @ 5,800 RPM), 2.00:1 gear ratio, and 10.5% prop slip for Yamaha Outboard Prop Selector.",
+    "pitch": 17,
+    "ratio": 2.0,
+    "mph": 41.8,
+    "slip": 10.5,
+    "date": "2026-11-18"
+  },
+  {
+    "prop_name": "Yamaha Outboard Prop Replacement",
+    "slug": "yamaha-outboard-prop-replacement-propeller-pitch-slip-calculator",
+    "title": "Yamaha Outboard Prop Replacement Propeller Pitch, Slip % & WOT RPM Calculator (2026)",
+    "description": "Calculate exact boat propeller pitch (14.25\" × 17\" 3-blade / 15\" 4-blade), GPS speed (41.8 MPH @ 5,800 RPM), 2.00:1 gear ratio, and 10.5% prop slip for Yamaha Outboard Prop Replacement.",
+    "pitch": 17,
+    "ratio": 2.0,
+    "mph": 41.8,
+    "slip": 10.5,
+    "date": "2026-11-18"
   }
 ]
