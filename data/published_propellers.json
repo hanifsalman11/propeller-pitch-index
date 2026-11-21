@@ -768,5 +768,16 @@
     "mph": 45.5,
     "slip": 8.0,
     "date": "2026-11-21"
+  },
+  {
+    "prop_name": "90 HP 4-Stroke Outboard (2.07 Ratio) on Pontoon / Tritoon Boat",
+    "slug": "90-hp-4-stroke-outboard-207-ratio-on-pontoon-tritoon-boat-propeller-pitch-slip-calculator",
+    "title": "90 HP 4-Stroke Outboard (2.07 Ratio) on Pontoon / Tritoon Boat Propeller Pitch, Slip % & WOT RPM Calculator (2026)",
+    "description": "Calculate exact boat propeller pitch (13.5\" × 13\" 3-blade / 12\" 4-blade), GPS speed (29.3 MPH @ 5,800 RPM), 2.07:1 gear ratio, and 15.0% prop slip for 90 HP 4-Stroke Outboard (2.07 Ratio) on Pontoon / Tritoon Boat.",
+    "pitch": 13,
+    "ratio": 2.07,
+    "mph": 29.3,
+    "slip": 15.0,
+    "date": "2026-11-21"
   }
 ]

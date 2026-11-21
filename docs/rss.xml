@@ -7,6 +7,12 @@
     <atom:link href="https://hanifsalman11.github.io/propeller-pitch-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>90 HP 4-Stroke Outboard (2.07 Ratio) on Pontoon / Tritoon Boat Propeller Pitch, Slip % & WOT RPM Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/propeller-pitch-index/90-hp-4-stroke-outboard-207-ratio-on-pontoon-tritoon-boat-propeller-pitch-slip-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/propeller-pitch-index/90-hp-4-stroke-outboard-207-ratio-on-pontoon-tritoon-boat-propeller-pitch-slip-calculator.html</guid>
+      <description>Calculate exact boat propeller pitch (13.5" × 13" 3-blade / 12" 4-blade), GPS speed (29.3 MPH @ 5,800 RPM), 2.07:1 gear ratio, and 15.0% prop slip for 90 HP 4-Stroke Outboard (2.07 Ratio) on Pontoon / Tritoon Boat.</description>
+    </item>
+    <item>
       <title>60 HP 4-Stroke Outboard (2.33 Ratio) on High-Speed Bass Boat Propeller Pitch, Slip % & WOT RPM Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/propeller-pitch-index/60-hp-4-stroke-outboard-233-ratio-on-high-speed-bass-boat-propeller-pitch-slip-calculator.html</link>
       <guid>https://hanifsalman11.github.io/propeller-pitch-index/60-hp-4-stroke-outboard-233-ratio-on-high-speed-bass-boat-propeller-pitch-slip-calculator.html</guid>
@@ -179,12 +185,6 @@
       <link>https://hanifsalman11.github.io/propeller-pitch-index/70hp-yamaha-propeller-pitch-slip-calculator.html</link>
       <guid>https://hanifsalman11.github.io/propeller-pitch-index/70hp-yamaha-propeller-pitch-slip-calculator.html</guid>
       <description>Calculate exact boat propeller pitch (14.25" × 17" 3-blade / 15" 4-blade), GPS speed (41.8 MPH @ 5,800 RPM), 2.00:1 gear ratio, and 10.5% prop slip for 70Hp Yamaha.</description>
-    </item>
-    <item>
-      <title>60 Hp Mercury Propeller Pitch, Slip % & WOT RPM Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/propeller-pitch-index/60-hp-mercury-propeller-pitch-slip-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/propeller-pitch-index/60-hp-mercury-propeller-pitch-slip-calculator.html</guid>
-      <description>Calculate exact boat propeller pitch (14.25" × 17" 3-blade / 15" 4-blade), GPS speed (41.8 MPH @ 5,800 RPM), 2.00:1 gear ratio, and 10.5% prop slip for 60 Hp Mercury.</description>
     </item>
   </channel>
 </rss>
