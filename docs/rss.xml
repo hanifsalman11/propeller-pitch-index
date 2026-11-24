@@ -7,6 +7,12 @@
     <atom:link href="https://hanifsalman11.github.io/propeller-pitch-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>115 HP 4-Stroke Outboard (2.15 Ratio) on Deep-V Center Console Propeller Pitch, Slip % & WOT RPM Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/propeller-pitch-index/115-hp-4-stroke-outboard-215-ratio-on-deep-v-center-console-propeller-pitch-slip-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/propeller-pitch-index/115-hp-4-stroke-outboard-215-ratio-on-deep-v-center-console-propeller-pitch-slip-calculator.html</guid>
+      <description>Calculate exact boat propeller pitch (13.75" × 17" 3-blade / 15" 4-blade), GPS speed (40.2 MPH @ 6,000 RPM), 2.15:1 gear ratio, and 10.5% prop slip for 115 HP 4-Stroke Outboard (2.15 Ratio) on Deep-V Center Console.</description>
+    </item>
+    <item>
       <title>115 HP 4-Stroke Outboard (2.15 Ratio) on Pontoon / Tritoon Boat Propeller Pitch, Slip % & WOT RPM Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/propeller-pitch-index/115-hp-4-stroke-outboard-215-ratio-on-pontoon-tritoon-boat-propeller-pitch-slip-calculator.html</link>
       <guid>https://hanifsalman11.github.io/propeller-pitch-index/115-hp-4-stroke-outboard-215-ratio-on-pontoon-tritoon-boat-propeller-pitch-slip-calculator.html</guid>
@@ -179,12 +185,6 @@
       <link>https://hanifsalman11.github.io/propeller-pitch-index/yamaha-150-propeller-pitch-slip-calculator.html</link>
       <guid>https://hanifsalman11.github.io/propeller-pitch-index/yamaha-150-propeller-pitch-slip-calculator.html</guid>
       <description>Calculate exact boat propeller pitch (14.25" × 17" 3-blade / 15" 4-blade), GPS speed (41.8 MPH @ 5,800 RPM), 2.00:1 gear ratio, and 10.5% prop slip for Yamaha 150.</description>
-    </item>
-    <item>
-      <title>115 Mercury Propeller Pitch, Slip % & WOT RPM Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/propeller-pitch-index/115-mercury-propeller-pitch-slip-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/propeller-pitch-index/115-mercury-propeller-pitch-slip-calculator.html</guid>
-      <description>Calculate exact boat propeller pitch (14.25" × 17" 3-blade / 15" 4-blade), GPS speed (41.8 MPH @ 5,800 RPM), 2.00:1 gear ratio, and 10.5% prop slip for 115 Mercury.</description>
     </item>
   </channel>
 </rss>
