@@ -856,5 +856,16 @@
     "mph": 40.2,
     "slip": 10.5,
     "date": "2026-11-24"
+  },
+  {
+    "prop_name": "115 HP 4-Stroke Outboard (2.15 Ratio) on Aluminum Bay / Flats Skiff",
+    "slug": "115-hp-4-stroke-outboard-215-ratio-on-aluminum-bay-flats-skiff-propeller-pitch-slip-calculator",
+    "title": "115 HP 4-Stroke Outboard (2.15 Ratio) on Aluminum Bay / Flats Skiff Propeller Pitch, Slip % & WOT RPM Calculator (2026)",
+    "description": "Calculate exact boat propeller pitch (13.75\" × 19\" 3-blade / 17\" 4-blade), GPS speed (45.4 MPH @ 6,000 RPM), 2.15:1 gear ratio, and 9.5% prop slip for 115 HP 4-Stroke Outboard (2.15 Ratio) on Aluminum Bay / Flats Skiff.",
+    "pitch": 19,
+    "ratio": 2.15,
+    "mph": 45.4,
+    "slip": 9.5,
+    "date": "2026-11-24"
   }
 ]
