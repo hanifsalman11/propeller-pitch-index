@@ -7,6 +7,24 @@
     <atom:link href="https://hanifsalman11.github.io/propeller-pitch-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>What  Prop Do I Need Propeller Pitch, Slip % & WOT RPM Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/propeller-pitch-index/what-prop-do-i-need-propeller-pitch-slip-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/propeller-pitch-index/what-prop-do-i-need-propeller-pitch-slip-calculator.html</guid>
+      <description>Calculate exact boat propeller pitch (14.25" × 17" 3-blade / 15" 4-blade), GPS speed (41.8 MPH @ 5,800 RPM), 2.00:1 gear ratio, and 10.5% prop slip for What  Prop Do I Need.</description>
+    </item>
+    <item>
+      <title>90Hp Mercury Propeller Pitch, Slip % & WOT RPM Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/propeller-pitch-index/90hp-mercury-propeller-pitch-slip-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/propeller-pitch-index/90hp-mercury-propeller-pitch-slip-calculator.html</guid>
+      <description>Calculate exact boat propeller pitch (14.25" × 17" 3-blade / 15" 4-blade), GPS speed (41.8 MPH @ 5,800 RPM), 2.00:1 gear ratio, and 10.5% prop slip for 90Hp Mercury.</description>
+    </item>
+    <item>
+      <title>40 Hp Yamaha Propeller Pitch, Slip % & WOT RPM Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/propeller-pitch-index/40-hp-yamaha-propeller-pitch-slip-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/propeller-pitch-index/40-hp-yamaha-propeller-pitch-slip-calculator.html</guid>
+      <description>Calculate exact boat propeller pitch (14.25" × 17" 3-blade / 15" 4-blade), GPS speed (41.8 MPH @ 5,800 RPM), 2.00:1 gear ratio, and 10.5% prop slip for 40 Hp Yamaha.</description>
+    </item>
+    <item>
       <title>115 HP 4-Stroke Outboard (2.15 Ratio) on High-Speed Bass Boat Propeller Pitch, Slip % & WOT RPM Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/propeller-pitch-index/115-hp-4-stroke-outboard-215-ratio-on-high-speed-bass-boat-propeller-pitch-slip-calculator.html</link>
       <guid>https://hanifsalman11.github.io/propeller-pitch-index/115-hp-4-stroke-outboard-215-ratio-on-high-speed-bass-boat-propeller-pitch-slip-calculator.html</guid>
@@ -167,24 +185,6 @@
       <link>https://hanifsalman11.github.io/propeller-pitch-index/mercury-outboard-prop-replacement-propeller-pitch-slip-calculator.html</link>
       <guid>https://hanifsalman11.github.io/propeller-pitch-index/mercury-outboard-prop-replacement-propeller-pitch-slip-calculator.html</guid>
       <description>Calculate exact boat propeller pitch (14.25" × 17" 3-blade / 15" 4-blade), GPS speed (41.8 MPH @ 5,800 RPM), 2.00:1 gear ratio, and 10.5% prop slip for Mercury Outboard Prop Replacement.</description>
-    </item>
-    <item>
-      <title>Mercury Outboard Prop Guard Propeller Pitch, Slip % & WOT RPM Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/propeller-pitch-index/mercury-outboard-prop-guard-propeller-pitch-slip-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/propeller-pitch-index/mercury-outboard-prop-guard-propeller-pitch-slip-calculator.html</guid>
-      <description>Calculate exact boat propeller pitch (14.25" × 17" 3-blade / 15" 4-blade), GPS speed (41.8 MPH @ 5,800 RPM), 2.00:1 gear ratio, and 10.5% prop slip for Mercury Outboard Prop Guard.</description>
-    </item>
-    <item>
-      <title>3.0 Mercruiser Propeller Pitch, Slip % & WOT RPM Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/propeller-pitch-index/30-mercruiser-propeller-pitch-slip-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/propeller-pitch-index/30-mercruiser-propeller-pitch-slip-calculator.html</guid>
-      <description>Calculate exact boat propeller pitch (14.25" × 17" 3-blade / 15" 4-blade), GPS speed (41.8 MPH @ 5,800 RPM), 2.00:1 gear ratio, and 10.5% prop slip for 3.0 Mercruiser.</description>
-    </item>
-    <item>
-      <title>A 4.3 Mercruiser Propeller Pitch, Slip % & WOT RPM Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/propeller-pitch-index/a-43-mercruiser-propeller-pitch-slip-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/propeller-pitch-index/a-43-mercruiser-propeller-pitch-slip-calculator.html</guid>
-      <description>Calculate exact boat propeller pitch (14.25" × 17" 3-blade / 15" 4-blade), GPS speed (41.8 MPH @ 5,800 RPM), 2.00:1 gear ratio, and 10.5% prop slip for A 4.3 Mercruiser.</description>
     </item>
   </channel>
 </rss>

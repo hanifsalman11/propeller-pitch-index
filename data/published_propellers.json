@@ -878,5 +878,38 @@
     "mph": 51.1,
     "slip": 8.0,
     "date": "2026-11-25"
+  },
+  {
+    "prop_name": "40 Hp Yamaha",
+    "slug": "40-hp-yamaha-propeller-pitch-slip-calculator",
+    "title": "40 Hp Yamaha Propeller Pitch, Slip % & WOT RPM Calculator (2026)",
+    "description": "Calculate exact boat propeller pitch (14.25\" × 17\" 3-blade / 15\" 4-blade), GPS speed (41.8 MPH @ 5,800 RPM), 2.00:1 gear ratio, and 10.5% prop slip for 40 Hp Yamaha.",
+    "pitch": 17,
+    "ratio": 2.0,
+    "mph": 41.8,
+    "slip": 10.5,
+    "date": "2026-11-25"
+  },
+  {
+    "prop_name": "90Hp Mercury",
+    "slug": "90hp-mercury-propeller-pitch-slip-calculator",
+    "title": "90Hp Mercury Propeller Pitch, Slip % & WOT RPM Calculator (2026)",
+    "description": "Calculate exact boat propeller pitch (14.25\" × 17\" 3-blade / 15\" 4-blade), GPS speed (41.8 MPH @ 5,800 RPM), 2.00:1 gear ratio, and 10.5% prop slip for 90Hp Mercury.",
+    "pitch": 17,
+    "ratio": 2.0,
+    "mph": 41.8,
+    "slip": 10.5,
+    "date": "2026-11-25"
+  },
+  {
+    "prop_name": "What  Prop Do I Need",
+    "slug": "what-prop-do-i-need-propeller-pitch-slip-calculator",
+    "title": "What  Prop Do I Need Propeller Pitch, Slip % & WOT RPM Calculator (2026)",
+    "description": "Calculate exact boat propeller pitch (14.25\" × 17\" 3-blade / 15\" 4-blade), GPS speed (41.8 MPH @ 5,800 RPM), 2.00:1 gear ratio, and 10.5% prop slip for What  Prop Do I Need.",
+    "pitch": 17,
+    "ratio": 2.0,
+    "mph": 41.8,
+    "slip": 10.5,
+    "date": "2026-11-25"
   }
 ]
