@@ -867,5 +867,16 @@
     "mph": 45.4,
     "slip": 9.5,
     "date": "2026-11-24"
+  },
+  {
+    "prop_name": "115 HP 4-Stroke Outboard (2.15 Ratio) on High-Speed Bass Boat",
+    "slug": "115-hp-4-stroke-outboard-215-ratio-on-high-speed-bass-boat-propeller-pitch-slip-calculator",
+    "title": "115 HP 4-Stroke Outboard (2.15 Ratio) on High-Speed Bass Boat Propeller Pitch, Slip % & WOT RPM Calculator (2026)",
+    "description": "Calculate exact boat propeller pitch (13.75\" × 21\" 3-blade / 19\" 4-blade), GPS speed (51.1 MPH @ 6,000 RPM), 2.15:1 gear ratio, and 8.0% prop slip for 115 HP 4-Stroke Outboard (2.15 Ratio) on High-Speed Bass Boat.",
+    "pitch": 21,
+    "ratio": 2.15,
+    "mph": 51.1,
+    "slip": 8.0,
+    "date": "2026-11-25"
   }
 ]
