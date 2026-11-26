@@ -911,5 +911,38 @@
     "mph": 41.8,
     "slip": 10.5,
     "date": "2026-11-25"
+  },
+  {
+    "prop_name": "Mercury 40 Hp",
+    "slug": "mercury-40-hp-propeller-pitch-slip-calculator",
+    "title": "Mercury 40 Hp Propeller Pitch, Slip % & WOT RPM Calculator (2026)",
+    "description": "Calculate exact boat propeller pitch (14.25\" × 17\" 3-blade / 15\" 4-blade), GPS speed (41.8 MPH @ 5,800 RPM), 2.00:1 gear ratio, and 10.5% prop slip for Mercury 40 Hp.",
+    "pitch": 17,
+    "ratio": 2.0,
+    "mph": 41.8,
+    "slip": 10.5,
+    "date": "2026-11-26"
+  },
+  {
+    "prop_name": "Mercury Outboard Prop Wrench",
+    "slug": "mercury-outboard-prop-wrench-propeller-pitch-slip-calculator",
+    "title": "Mercury Outboard Prop Wrench Propeller Pitch, Slip % & WOT RPM Calculator (2026)",
+    "description": "Calculate exact boat propeller pitch (14.25\" × 17\" 3-blade / 15\" 4-blade), GPS speed (41.8 MPH @ 5,800 RPM), 2.00:1 gear ratio, and 10.5% prop slip for Mercury Outboard Prop Wrench.",
+    "pitch": 17,
+    "ratio": 2.0,
+    "mph": 41.8,
+    "slip": 10.5,
+    "date": "2026-11-26"
+  },
+  {
+    "prop_name": "150 HP 4-Stroke Outboard (2.00 Ratio) on Pontoon / Tritoon Boat",
+    "slug": "150-hp-4-stroke-outboard-200-ratio-on-pontoon-tritoon-boat-propeller-pitch-slip-calculator",
+    "title": "150 HP 4-Stroke Outboard (2.00 Ratio) on Pontoon / Tritoon Boat Propeller Pitch, Slip % & WOT RPM Calculator (2026)",
+    "description": "Calculate exact boat propeller pitch (14.25\" × 13\" 3-blade / 12\" 4-blade), GPS speed (30.3 MPH @ 5,800 RPM), 2.00:1 gear ratio, and 15.0% prop slip for 150 HP 4-Stroke Outboard (2.00 Ratio) on Pontoon / Tritoon Boat.",
+    "pitch": 13,
+    "ratio": 2.0,
+    "mph": 30.3,
+    "slip": 15.0,
+    "date": "2026-11-26"
   }
 ]
