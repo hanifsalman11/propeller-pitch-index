@@ -944,5 +944,16 @@
     "mph": 30.3,
     "slip": 15.0,
     "date": "2026-11-26"
+  },
+  {
+    "prop_name": "150 HP 4-Stroke Outboard (2.00 Ratio) on Deep-V Center Console",
+    "slug": "150-hp-4-stroke-outboard-200-ratio-on-deep-v-center-console-propeller-pitch-slip-calculator",
+    "title": "150 HP 4-Stroke Outboard (2.00 Ratio) on Deep-V Center Console Propeller Pitch, Slip % & WOT RPM Calculator (2026)",
+    "description": "Calculate exact boat propeller pitch (14.25\" × 17\" 3-blade / 15\" 4-blade), GPS speed (41.8 MPH @ 5,800 RPM), 2.00:1 gear ratio, and 10.5% prop slip for 150 HP 4-Stroke Outboard (2.00 Ratio) on Deep-V Center Console.",
+    "pitch": 17,
+    "ratio": 2.0,
+    "mph": 41.8,
+    "slip": 10.5,
+    "date": "2026-11-26"
   }
 ]
