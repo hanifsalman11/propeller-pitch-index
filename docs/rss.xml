@@ -7,6 +7,12 @@
     <atom:link href="https://hanifsalman11.github.io/propeller-pitch-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>150 HP 4-Stroke Outboard (2.00 Ratio) on Aluminum Bay / Flats Skiff Propeller Pitch, Slip % & WOT RPM Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/propeller-pitch-index/150-hp-4-stroke-outboard-200-ratio-on-aluminum-bay-flats-skiff-propeller-pitch-slip-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/propeller-pitch-index/150-hp-4-stroke-outboard-200-ratio-on-aluminum-bay-flats-skiff-propeller-pitch-slip-calculator.html</guid>
+      <description>Calculate exact boat propeller pitch (14.25" × 19" 3-blade / 17" 4-blade), GPS speed (47.2 MPH @ 5,800 RPM), 2.00:1 gear ratio, and 9.5% prop slip for 150 HP 4-Stroke Outboard (2.00 Ratio) on Aluminum Bay / Flats Skiff.</description>
+    </item>
+    <item>
       <title>150 HP 4-Stroke Outboard (2.00 Ratio) on Deep-V Center Console Propeller Pitch, Slip % & WOT RPM Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/propeller-pitch-index/150-hp-4-stroke-outboard-200-ratio-on-deep-v-center-console-propeller-pitch-slip-calculator.html</link>
       <guid>https://hanifsalman11.github.io/propeller-pitch-index/150-hp-4-stroke-outboard-200-ratio-on-deep-v-center-console-propeller-pitch-slip-calculator.html</guid>
@@ -179,12 +185,6 @@
       <link>https://hanifsalman11.github.io/propeller-pitch-index/yamaha-outboard-prop-selector-propeller-pitch-slip-calculator.html</link>
       <guid>https://hanifsalman11.github.io/propeller-pitch-index/yamaha-outboard-prop-selector-propeller-pitch-slip-calculator.html</guid>
       <description>Calculate exact boat propeller pitch (14.25" × 17" 3-blade / 15" 4-blade), GPS speed (41.8 MPH @ 5,800 RPM), 2.00:1 gear ratio, and 10.5% prop slip for Yamaha Outboard Prop Selector.</description>
-    </item>
-    <item>
-      <title>Mercury Outboard Prop Hub Kit Propeller Pitch, Slip % & WOT RPM Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/propeller-pitch-index/mercury-outboard-prop-hub-kit-propeller-pitch-slip-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/propeller-pitch-index/mercury-outboard-prop-hub-kit-propeller-pitch-slip-calculator.html</guid>
-      <description>Calculate exact boat propeller pitch (14.25" × 17" 3-blade / 15" 4-blade), GPS speed (41.8 MPH @ 5,800 RPM), 2.00:1 gear ratio, and 10.5% prop slip for Mercury Outboard Prop Hub Kit.</description>
     </item>
   </channel>
 </rss>
