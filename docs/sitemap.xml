@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://hanifsalman11.github.io/propeller-pitch-index/</loc>
-    <lastmod>2026-11-27</lastmod>
+    <lastmod>2026-11-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -537,6 +537,12 @@
   <url>
     <loc>https://hanifsalman11.github.io/propeller-pitch-index/150-hp-4-stroke-outboard-200-ratio-on-high-speed-bass-boat-propeller-pitch-slip-calculator.html</loc>
     <lastmod>2026-11-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://hanifsalman11.github.io/propeller-pitch-index/200-hp-v6-outboard-186-ratio-on-pontoon-tritoon-boat-propeller-pitch-slip-calculator.html</loc>
+    <lastmod>2026-11-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>

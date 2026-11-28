@@ -7,6 +7,12 @@
     <atom:link href="https://hanifsalman11.github.io/propeller-pitch-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>200 HP V6 Outboard (1.86 Ratio) on Pontoon / Tritoon Boat Propeller Pitch, Slip % & WOT RPM Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/propeller-pitch-index/200-hp-v6-outboard-186-ratio-on-pontoon-tritoon-boat-propeller-pitch-slip-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/propeller-pitch-index/200-hp-v6-outboard-186-ratio-on-pontoon-tritoon-boat-propeller-pitch-slip-calculator.html</guid>
+      <description>Calculate exact boat propeller pitch (14.5" × 13" 3-blade / 12" 4-blade), GPS speed (32.6 MPH @ 5,800 RPM), 1.86:1 gear ratio, and 15.0% prop slip for 200 HP V6 Outboard (1.86 Ratio) on Pontoon / Tritoon Boat.</description>
+    </item>
+    <item>
       <title>150 HP 4-Stroke Outboard (2.00 Ratio) on High-Speed Bass Boat Propeller Pitch, Slip % & WOT RPM Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/propeller-pitch-index/150-hp-4-stroke-outboard-200-ratio-on-high-speed-bass-boat-propeller-pitch-slip-calculator.html</link>
       <guid>https://hanifsalman11.github.io/propeller-pitch-index/150-hp-4-stroke-outboard-200-ratio-on-high-speed-bass-boat-propeller-pitch-slip-calculator.html</guid>
@@ -179,12 +185,6 @@
       <link>https://hanifsalman11.github.io/propeller-pitch-index/yamaha-outboard-prop-chatter-propeller-pitch-slip-calculator.html</link>
       <guid>https://hanifsalman11.github.io/propeller-pitch-index/yamaha-outboard-prop-chatter-propeller-pitch-slip-calculator.html</guid>
       <description>Calculate exact boat propeller pitch (14.25" × 17" 3-blade / 15" 4-blade), GPS speed (41.8 MPH @ 5,800 RPM), 2.00:1 gear ratio, and 10.5% prop slip for Yamaha Outboard Prop Chatter.</description>
-    </item>
-    <item>
-      <title>Yamaha Outboard Prop Replacement Propeller Pitch, Slip % & WOT RPM Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/propeller-pitch-index/yamaha-outboard-prop-replacement-propeller-pitch-slip-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/propeller-pitch-index/yamaha-outboard-prop-replacement-propeller-pitch-slip-calculator.html</guid>
-      <description>Calculate exact boat propeller pitch (14.25" × 17" 3-blade / 15" 4-blade), GPS speed (41.8 MPH @ 5,800 RPM), 2.00:1 gear ratio, and 10.5% prop slip for Yamaha Outboard Prop Replacement.</description>
     </item>
   </channel>
 </rss>
